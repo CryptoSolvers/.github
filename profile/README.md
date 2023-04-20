@@ -13,7 +13,7 @@ CryptoSolvers is a group of researchers across several univerisities that apply 
 
 
 ## Former Members
-- Hai Lin, Clarkshon University
+- Hai Lin, Clarkson University
 - Wei Du, University at Albany
 - Veena Ravishankar, University of Mary Washington
 - Meghan Cooke, University of Mary Washington
