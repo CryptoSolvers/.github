@@ -6,7 +6,7 @@ CryptoSolvers is a group of researchers across several universities that apply t
 - Catherine Meadows, Naval Research Laboratory
 - [Paliath Narendran](http://www.cs.albany.edu/~dran/), University at Albany - SUNY
 - [Chris Lynch](https://lin-web.clarkson.edu/~clynch/), Clarkson University
-- [Andrew Marshall](https://www.marshallandrew.net/), University of Mary Washington
+- [Andrew M. Marshall](https://www.marshallandrew.net/), University of Mary Washington
 - [Brandon Rozek](https://brandonrozek.com), Rensselaer Polytechnic Institute
 - [Kimberly A. Cornell](https://www.albany.edu/cehc/faculty/kimberly-cornell), University at Albany - SUNY
 - Serdar Erbatur, University of Texas at Dallas
